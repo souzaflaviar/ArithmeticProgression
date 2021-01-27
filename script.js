@@ -19,7 +19,7 @@ function count(){
             f = Number(window.prompt ('Set a new end:'))
         }
         if (p==0){
-            window.alert('IMPOSSIBLE pace 0! Pace equals 1 will de adopted')
+            window.alert('IMPOSSIBLE constant 0! Constant equals 1 will de adopted')
             p=1
         }else if (p<0){
             p = Math.abs(p)
